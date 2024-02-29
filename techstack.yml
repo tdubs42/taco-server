@@ -2,7 +2,7 @@ repo_name: tdubs42/taco-server
 report_id: adb2e2ccbaec3cee3acd3a561cacbe98
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:06:26+00:00'
+timestamp: '2024-02-29T18:23:20+00:00'
 requested_by: tdubs42
 provider: github
 branch: main
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/tdubs42/taco-server
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.7
   open_source: true
